@@ -33,3 +33,4 @@ Insights are delivered through:
 - Optimize underperforming categories with targeted promotions  
 - Personalize campaigns using customer behavior data  
 
+--*Note: This project uses fictional data for demonstration purposes.*
