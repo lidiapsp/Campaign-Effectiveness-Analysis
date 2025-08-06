@@ -19,7 +19,7 @@ Insights are delivered through:
 
 ## 📂 Project Structure
 - xlsx: Full analysis and visualizations  
-- pdf : Key findings and recommendations
+- pptx: Key findings and recommendations
 
 ## 📌 Key Insights  
 - **11.11** achieved the highest total revenue  
