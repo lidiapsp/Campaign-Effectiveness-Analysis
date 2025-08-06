@@ -18,8 +18,8 @@ Insights are delivered through:
 - Microsoft Excel
 
 ## 📂 Project Structure
-- `Campaign_Effectiveness.xlsx`: Full analysis and visualizations  
-- `Campaign_Insights_Summary.pdf`: Key findings and recommendations
+- xlsx: Full analysis and visualizations  
+- pdf : Key findings and recommendations
 
 ## 📌 Key Insights  
 - **11.11** achieved the highest total revenue  
